@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "443850778950",
+    "firebase_url": "https://fotki-e290d-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fotki-e290d",
+    "storage_bucket": "fotki-e290d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443850778950:android:6ea4daa78314eb964e1d47",
+        "android_client_info": {
+          "package_name": "com.example.fotki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443850778950-g8h0jbl2tfbfqtgul6lot91h2e6bat61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fotki",
+            "certificate_hash": "8b7266291b7ce29757d9395788c546aa4ff93bbf"
+          }
+        },
+        {
+          "client_id": "443850778950-0g9octu9luph86au5n6idhksjec0h1s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj7v8XLjmuzkv6Apjs14Td2C59gUaYMzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443850778950-0g9octu9luph86au5n6idhksjec0h1s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
