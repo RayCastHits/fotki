@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">fotki</string>
+    <string name="title">Fotki</string>
+    <string name="sign">Вход</string>
+    <string name="register">Регистрация</string>
+    <string name="placeholderNickname">Никнейм</string>
+    <string name="placeholderEmail">Email</string>
+    <string name="placeholderPassword">Пароль</string>
+    <string name="uploadTxt">Загрузить изображение</string>
+    <string name="deleteTxt">Удалить изображение</string>
+    <string name="placeholderComment">Введите комментарий</string>
+    <string name="btnComment">Оставить комментарий</string>
+    <string name="commentLabel">Комментарии:</string>
+</resources>
